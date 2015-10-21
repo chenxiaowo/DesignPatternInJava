@@ -7,7 +7,7 @@ import java.util.Vector;
 /**
  * 
  * @author Administrator
- *	作为被观察的抽象类
+ *	test commitment
  */
 
 public abstract class AbstractSubject implements Subject {
