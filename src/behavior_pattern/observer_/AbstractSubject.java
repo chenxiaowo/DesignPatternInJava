@@ -3,6 +3,13 @@ package behavior_pattern.observer_;
 import java.util.Enumeration;
 import java.util.Vector;
 
+
+/**
+ * 
+ * @author Administrator
+ *	作为被观察的抽象类
+ */
+
 public abstract class AbstractSubject implements Subject {
 	
 	private Vector<Observer> vector = new Vector<Observer>();
